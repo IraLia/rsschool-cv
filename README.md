@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git task
+https://iralia.github.io/rsschool-cv/cv
