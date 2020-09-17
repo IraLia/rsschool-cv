@@ -10,7 +10,7 @@
 \
 **Location:** Lviv, Ukraine
 \
-**LinkedIn:** (https://www.linkedin.com/in/iryna-liabakh-b296201a2/)  
+[**LinkedIn link**](https://www.linkedin.com/in/iryna-liabakh-b296201a2/)  
 
 ### **SUMMARY**
 Hard-working individual with strong analytical and creative problem-solving skills, solid knowledge in HTML, CSS and JavaScript as well as strong ability to communicate and work in a team effectively.
