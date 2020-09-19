@@ -1,0 +1,120 @@
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  max-width: 70vw;
+  background-color: rgb(241, 252, 255);
+}
+
+.personal-info {
+  width: 20vw;
+  height: auto;
+  text-align: center;
+  color: rgb(241, 252, 255);
+  background-color: rgb(79, 178, 243);
+}
+
+img {
+  justify-self: center;
+  width: 150px;
+  height: auto;
+  border: .5px solid rgb(79, 178, 243);
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.section-name-personal {
+  color: rgb(241, 252, 255);
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(241, 252, 255);
+  font-weight: bold;
+}
+
+.skills {
+  margin-top: 25px;
+}
+
+.skills p {
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+
+.tech-skills, .os-skills {
+  column-count: 2;
+  padding: 0 12px 12px 12px;
+  margin: 0;
+  list-style: none;
+}
+
+.languages-skills, .education{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+
+/* styling for main information section */
+
+.main-info {
+  margin-left: 30px;
+  margin-right: 50px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 36px;
+  color: rgb(6, 116, 189);
+  margin-top: 44px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 21px;
+  letter-spacing: 1px;
+  color: rgb(79, 178, 243);
+  margin-top: 0;
+  margin-bottom: 59px;
+}
+
+.section-name-main {
+  color: rgb(12, 100, 158);
+}
+
+.work-period {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(27, 123, 187);
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(79, 178, 243);
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.work-experience p  {
+  color: rgb(27, 123, 187);
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.work-experience ul  {
+  color: rgb(6, 87, 141);
+  margin: 5px 0 20px 0;
+  padding-left: 30px;
+ }
